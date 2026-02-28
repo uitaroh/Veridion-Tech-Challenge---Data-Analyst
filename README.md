@@ -20,5 +20,9 @@ in Veridion's database. It also flags matches that look uncertain.
 
 - Cells must be run in order
 
+## Documentation
+
+A full write-up of the methodology is available in:
+`Veridion_Data_Analyst.pdf`
 ## Author
 Horatiu Palaghiu
